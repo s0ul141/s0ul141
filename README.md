@@ -25,3 +25,10 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|
 
 
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=s0ul141&show_icons=true&title_color=34c759&icon_color=0d6efd&text_color=ffffff&bg_color=0a0a0a">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ul141&size_weight=0.0005&count_weight=0.3&layout=compact&title_color=34c759&text_color=ffffff&bg_color=0a0a0a&icon_color=0d6efd">
+</p>
+
+
