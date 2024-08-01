@@ -18,12 +18,15 @@
 |----------|----------|----------|-----|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java"  alt="java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| 
 
-### Best frameworks and main libraries for Python3:
+### Main libraries for Python3:
 
-| Numpy | Pandas | Sklearn | OpenCV | Statsmodels | MatplotLib |  Seaborn |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|
+| Numpy | Pandas | Sklearn | OpenCV | Statsmodels |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|
 
+| MatplotLib |  Seaborn | Keras | Geopandas |
+|----------|----------|----------|----------|
+|<img src="https://github.com/s0ul141/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="plt" alt="plt" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/geopandas/geopandas-original.svg" title="Keras" alt="Keras" width="90" height="55"/>|
 
 
 
