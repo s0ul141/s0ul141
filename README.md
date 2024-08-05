@@ -9,6 +9,7 @@
 
 <h3 align="center">A passionate Data Science student from INDIA</h3>
 <h3><a href="https://s0ul141.github.io/resume/"&target="_blank">Click here to see my Resume</a></h3>
+<h3><a href="https://s0ul141.github.io/resume/" target="_blank" rel="noopener noreferrer">Click here to see my Resume</a></h3>
 
 <br/>
 
