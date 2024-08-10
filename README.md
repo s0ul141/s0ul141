@@ -23,15 +23,15 @@
 
 | Numpy | Pandas | Sklearn | OpenCV | Statsmodels |
 |----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="Numpy" alt="Numpy" width="90" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="statsmodels" alt="statsmodels" width="90" height="55"/>|
 
 | MatplotLib |  Seaborn | Keras | Geopandas |
 |----------|----------|----------|----------|
 |<img src="https://github.com/s0ul141/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="plt" alt="plt" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/geopandas/geopandas-original.svg" title="Keras" alt="Keras" width="90" height="55"/>|
 
 ### <a href="https://learn.microsoft.com/en-us/users/soumyabasu-2197/">Badges:</a>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/introduction-to-git-badge.svg" width="100" height="65"/>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-power-bi.svg" width="100" height="65"/>
+<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/introduction-to-git-badge.svg" title="introduction-to-git-badge" width="100" height="65"/>
+<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-power-bi.svg" title="get-started-power-bi" width="100" height="65"/>
 
 
 
