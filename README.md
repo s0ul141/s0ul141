@@ -32,16 +32,18 @@
 
 <p align="center"> <a href="https://learn.microsoft.com/en-us/users/soumyabasu-2197/"> Microsoft Learn! Badges: </a> </p>
 <p align="center">
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/introduction-to-git-badge.svg" title="introduction-to-git-badge" width="100" height="65"/>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-power-bi.svg" title="get-started-power-bi" width="100" height="65"/>  
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-ai-fundamentals.svg" title="get-started-ai-fundamentals" width="100" height="65"/>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-data-power-bi-desktop.svg" title="get-data-power-bi-desktop" width="100" height="65"/>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/data-analytics-and-microsoft.svg" title="data-analytics-and-microsoft" width="100" height="65"/>
-<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/train-and-evaluate-deep-learning-models.svg" title="train-and-evaluate-deep-learning-models" width="100" height="65"/>
-
-  
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/introduction-to-git-badge.svg" title="introduction-to-git-badge" width="100" height="65"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-power-bi.svg" title="get-started-power-bi" width="100" height="65"/>  
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-ai-fundamentals.svg" title="get-started-ai-fundamentals" width="100" height="65"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-data-power-bi-desktop.svg" title="get-data-power-bi-desktop" width="100" height="65"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/data-analytics-and-microsoft.svg" title="data-analytics-and-microsoft" width="100" height="65"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/train-and-evaluate-deep-learning-models.svg" title="train-and-evaluate-deep-learning-models" width="100" height="65"/>
 </p>
-
+<p align="center"> <a href="https://www.cloudskillsboost.google/public_profiles/6e89703a-ef1e-4d18-b629-a7dc1fd43e58"> Cloud Skills Boost by Google: </a> </p>
+<p align="center">
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/Introduction%20to%20Generative%20AI.png" title="Introduction to Generative AI" width="100" height="100"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/Introduction%20to%20Large%20Language%20Models.png" title="Introduction to Large Language Models" width="100" height="100"/>
+</p>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=s0ul141&show_icons=true&title_color=34c759&icon_color=0d6efd&text_color=ffffff&bg_color=0a0a0a">
