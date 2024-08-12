@@ -37,6 +37,9 @@
 <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-ai-fundamentals.svg" title="get-started-ai-fundamentals" width="100" height="65"/>
 <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-data-power-bi-desktop.svg" title="get-data-power-bi-desktop" width="100" height="65"/>
 <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/data-analytics-and-microsoft.svg" title="data-analytics-and-microsoft" width="100" height="65"/>
+<img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/train-and-evaluate-deep-learning-models.svg" title="train-and-evaluate-deep-learning-models" width="100" height="65"/>
+
+  
 </p>
 
 
