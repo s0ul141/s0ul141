@@ -38,6 +38,8 @@
   <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-data-power-bi-desktop.svg" title="get-data-power-bi-desktop" width="100" height="65"/>
   <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/data-analytics-and-microsoft.svg" title="data-analytics-and-microsoft" width="100" height="65"/>
   <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/train-and-evaluate-deep-learning-models.svg" title="train-and-evaluate-deep-learning-models" width="100" height="65"/>
+  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/deep-learning-azure-databricks.svg" title="deep-learning-azure-databricks" width="100" height="65"/>
+  
 </p>
 <p align="center"> <a href="https://www.cloudskillsboost.google/public_profiles/6e89703a-ef1e-4d18-b629-a7dc1fd43e58"> Cloud Skills Boost by Google: </a> </p>
 <p align="center">
