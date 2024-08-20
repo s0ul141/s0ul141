@@ -8,8 +8,8 @@
 </h1>
 
 <h3 align="center">A passionate Data Science student from INDIA</h3>
-<h3><a href="https://s0ul141.github.io/resume/"&target="_blank">Click here to see my Resume</a></h3>
-
+<h3><a href="https://s0ul141.github.io/resume/" target="_blank">Click here to see my Resume</a></h3>
+<h3><a href="https://github.com/s0ul141/Data_Analysis">Check Out my Data Analytics works here... </a></h3>
 <br/>
 
 <div>
