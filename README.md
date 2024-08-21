@@ -11,7 +11,7 @@
 <h3>Click <a href="https://s0ul141.github.io/resume/" target="_blank"> here </a>to see my Resume</h3>
 <h3>Explore My Data Analytics Projects Here – <a href="https://github.com/s0ul141/Data_Analysis">Dive into the Insights!</a></h3>
 <h3>Currently working on an OBJECT DETECTION project 🙏</h3>
-<h4>Can connect with me via <a href="mailto:basusoumya366@gmail.com">mail</a></h4>
+
 
 <br/>
 
@@ -59,4 +59,4 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=s0ul141&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&ring=34c759&fire=34c759&currStreakNum=34c759&sideNums=34c759&currStreakLabel=34c759&sideLabels=34c759&dates=ffffff">
 </p>
-
+<h4>Can connect with me via <a href="mailto:basusoumya366@gmail.com">mail</a></h4>
