@@ -12,9 +12,6 @@
 <h3>Explore My Data Analytics Projects Here – <a href="https://github.com/s0ul141/Data_Analysis">Dive into the Insights!</a></h3>
 <h3>Currently working on a OBJECT DETECTION project 🙏</h3>
 <h2>Can connect with me via <a href="mailto:basusoumya366@gmail.com">mail</a></h2>
-## Contact
-
-You can connect with me via [email](mailto:basusoumya366@gmail.com).
 
 <br/>
 
