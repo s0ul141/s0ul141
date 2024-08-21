@@ -10,6 +10,8 @@
 <h3 align="center">A passionate Data Science student from INDIA</h3>
 <h3>Click <a href="https://s0ul141.github.io/resume/" target="_blank"> here </a>to see my Resume</h3>
 <h3>Explore My Data Analytics Projects Here – <a href="https://github.com/s0ul141/Data_Analysis">Dive into the Insights!</a></h3>
+<h3>Currently working on a OBJECT DETECTION project 🙏</h3>
+<h2>Can connect with me via <a href="basusoumya366@gmail.com">mail</a></h2>
 <br/>
 
 <div>
