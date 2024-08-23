@@ -24,9 +24,9 @@
 
 ### Main libraries for Python3:
 
-| Numpy | Pandas | Sklearn | OpenCV | Statsmodels |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="statsmodels" alt="statsmodels" width="90" height="55"/>|
+| Numpy | Pandas | Sklearn |Tensorflow | OpenCV | Statsmodels |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorlow" width="85" height="65"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="statsmodels" alt="statsmodels" width="90" height="55"/>|
 
 | MatplotLib |  Seaborn | Keras | Geopandas |
 |----------|----------|----------|----------|
