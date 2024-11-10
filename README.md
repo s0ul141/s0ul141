@@ -60,6 +60,4 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=s0ul141&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&ring=34c759&fire=34c759&currStreakNum=34c759&sideNums=34c759&currStreakLabel=34c759&sideLabels=34c759&dates=ffffff">
 </p>
-<p align="center">
-  Can connect with me via <a href="mailto:basusoumya366@gmail.com">mail</a>
-</p> 
+
