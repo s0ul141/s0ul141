@@ -4,60 +4,49 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Soumya+Basu!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=620&height=65&duration=4000&color=34c759&lines=Hi+There!+👋+I'm+Soumya+Basu;Data+Scientist+%26+AI+Engineer;Multi-Agent+LLMs+%7C+RAG+%7C+Document+AI" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Data Science student from INDIA</h3>
-<h3>Click <a href="https://s0ul141.github.io/resume/" target="_blank"> here </a>to see my Resume</h3>
-<h3>Explore My Data Analytics Projects Here – <a href="https://github.com/s0ul141/Data_Analysis">Dive into the Insights!</a></h3>
-<h3>Currently working on an OBJECT DETECTION project 🙏</h3>
-
-
-<br/>
-
-<div>
-
-### Languages:
-| Python3 | Java | R | SQL | Git |
-|----------|----------|----------|-----|-----|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java"  alt="java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| 
-
-### Main libraries for Python3:
-
-| Numpy | Pandas | Sklearn |Tensorflow | OpenCV | Statsmodels |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorlow" width="85" height="65"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="55" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/statsmodels/statsmodels-line.svg" title="statsmodels" alt="statsmodels" width="90" height="55"/>|
-
-| MatplotLib |  Seaborn | Keras | Geopandas | Streamlit |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/s0ul141/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="plt" alt="plt" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/geopandas/geopandas-original.svg" title="Geopandas" alt="GP" width="90" height="55"/>|<img src="https://github.com/s0ul141/devicon/blob/master/icons/streamlit/streamlit-plain.svg" title="Streamlit" alt="SL" width="90" height="55"/>|
-
-
-
-<p align="center"> <a href="https://learn.microsoft.com/en-us/users/soumyabasu-2197/"> Microsoft Learn! Badges: </a> </p>
 <p align="center">
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/introduction-to-git-badge.svg" title="introduction-to-git-badge" width="100" height="65"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-power-bi.svg" title="get-started-power-bi" width="100" height="65"/>  
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-started-ai-fundamentals.svg" title="get-started-ai-fundamentals" width="100" height="65"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/get-data-power-bi-desktop.svg" title="get-data-power-bi-desktop" width="100" height="65"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/data-analytics-and-microsoft.svg" title="data-analytics-and-microsoft" width="100" height="65"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/train-and-evaluate-deep-learning-models.svg" title="train-and-evaluate-deep-learning-models" width="100" height="65"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/deep-learning-azure-databricks.svg" title="deep-learning-azure-databricks" width="100" height="65"/>
-  
-</p>
-<p align="center"> <a href="https://www.cloudskillsboost.google/public_profiles/6e89703a-ef1e-4d18-b629-a7dc1fd43e58"> Cloud Skills Boost by Google: </a> </p>
-<p align="center">
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/Introduction%20to%20Generative%20AI.png" title="Introduction to Generative AI" width="100" height="100"/>
-  <img src="https://github.com/s0ul141/s0ul141/blob/main/Badges/Introduction%20to%20Large%20Language%20Models.png" title="Introduction to Large Language Models" width="100" height="100"/>
+  <strong>Data Scientist &amp; AI Engineer</strong> building production Multi-Agent LLM systems, Legal/Policy RAG, Document AI, and Statistical ML pipelines on <strong>AWS</strong> (contracted to <strong>Amazon Payroll Tech</strong> via Quest Global).
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=s0ul141&show_icons=true&title_color=34c759&icon_color=0d6efd&text_color=ffffff&bg_color=0a0a0a">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ul141&size_weight=0.0005&count_weight=0.3&layout=compact&title_color=34c759&text_color=ffffff&bg_color=0a0a0a&icon_color=0d6efd">
+  <a href="https://s0ul141.github.io/resume/" target="_blank"><strong>📄 Resume</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/soumya-basu141/" target="_blank"><strong>💼 LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="https://huggingface.co/s0uL141" target="_blank"><strong>🤗 Hugging Face</strong></a> &nbsp;•&nbsp;
+  <a href="mailto:basusoumya366@gmail.com"><strong>✉️ Email</strong></a>
 </p>
 
+---
+
+### What I Work On
+- **Multi-Agent LLM Orchestration:** Supervisor–specialist agent routing, authenticated tool/action groups, input validation, data-disclosure guardrails, and automated regression suites.
+- **Multilingual RAG &amp; Document AI:** Source-grounded retrieval over dense regulatory corpora, coordinate-grounded OCR extraction (AWS Textract + LLMs), and structured schema mapping.
+- **LLM Evaluation &amp; Reliability:** Multi-criteria grading rubrics, trace-based agent observability and regression evaluators, counterfactual hallucination detection, and formal SMT rule auditing.
+- **Statistical ML &amp; Anomaly Detection:** Pre-disbursement anomaly detection pipelines (EWMA, Modified Z-Score, IQR), imbalanced classification, and time-series/drift monitoring.
+
+---
+
+### Core Stack
+- **Generative AI &amp; LLMs:** Anthropic Claude (Opus, Sonnet, Haiku), Amazon Nova (Pro, Lite, Micro, 2 Lite), Strands Agents, Hugging Face Transformers, Sentence-Transformers, LoRA / Unsloth Fine-Tuning
+- **Cloud &amp; AI Infrastructure:** AWS Bedrock (Agents, AgentCore, Knowledge Bases, Guardrails, Prompt Management, Flows, Model Evaluation, Automated Reasoning), AWS Textract, OpenSearch Serverless, Titan Embeddings, SageMaker, S3, Serverless Architecture (Lambda, EventBridge, DynamoDB)
+- **Data Science, ML &amp; BI:** Python (Pandas, NumPy, Scikit-learn, Statsmodels, PyTorch, TensorFlow), SQL, R, Git, FastAPI, Tableau, Power BI, Streamlit
+
+---
+
+### Selected Public Work
+- **[Fine-Tuning Large Language Models](https://github.com/s0ul141/Fine_Tuning_Large_Language_Models):** Domain adaptation of instruction-tuned Gemma-2-2B models using parameter-efficient LoRA/QLoRA via Unsloth ([published weights on Hugging Face](https://huggingface.co/s0uL141)).
+- **[State-Wise Business Activity Comparison &amp; Forecasting](https://github.com/s0ul141/Statewise-business-comparison-and-forecast):** 5-year sector growth forecasting and liquidity analysis across 28 Indian states deployed with Streamlit.
+- **[Generalized Medicine Recommendation System](https://github.com/s0ul141/Generalized-Medicine-Recommendation):** Symptom-based disease prediction and medication/precaution recommendation pipeline.
+
+---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=s0ul141&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&ring=34c759&fire=34c759&currStreakNum=34c759&sideNums=34c759&currStreakLabel=34c759&sideLabels=34c759&dates=ffffff">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=s0ul141&show_icons=true&title_color=34c759&icon_color=0d6efd&text_color=ffffff&bg_color=0a0a0a&hide_border=true" alt="Soumya's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ul141&size_weight=0.0005&count_weight=0.3&layout=compact&title_color=34c759&text_color=ffffff&bg_color=0a0a0a&icon_color=0d6efd&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img width="720" src="https://streak-stats.demolab.com?user=s0ul141&theme=highcontrast&hide_border=true&border_radius=5&card_width=720&ring=34c759&fire=34c759&currStreakNum=34c759&sideNums=34c759&currStreakLabel=34c759&sideLabels=34c759&dates=ffffff" alt="GitHub Streak" />
+</p>
